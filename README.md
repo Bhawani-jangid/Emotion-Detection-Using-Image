@@ -1,4 +1,3 @@
-Here's a detailed description of your project along with the requirements that you can use for the README file. Feel free to modify any part to better fit your project's specifics!
 
 ---
 
@@ -90,5 +89,3 @@ pip install tensorflow keras opencv-python numpy matplotlib pillow
 This project is licensed under the MIT License.
 
 ---
-
-Feel free to adjust any section as needed, especially the paths and filenames to ensure accuracy. Let me know if you need any further modifications or additional sections!
